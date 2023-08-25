@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "library")(type "KiCad")(uri "/Users/luke/Documents/umass_ece/M5/RS485_Featherwing/library/library.kicad_sym")(options "")(descr ""))
+  (lib (name "m5_rs485_featherwing")(type "KiCad")(uri "/Users/luke/Documents/umass_ece/M5/RS485_Featherwing/library/m5_rs485_featherwing.kicad_sym")(options "")(descr ""))
+)
